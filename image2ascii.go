@@ -86,9 +86,9 @@ func parseOptions() (*convert.Options, error) {
 
 func usage() {
 	fmt.Fprintf(os.Stderr, `image2ascii version: image2ascii/1.0.0 
->> HomePage: https://github.com/qeesung/image2ascii
->> Issue   : https://github.com/qeesung/image2ascii/issues
->> Author  : qeesung
+>> HomePage: https://github.com/PhateValleyman/image2ascii
+>> Issue   : https://github.com/PhateValleyman/image2ascii/issues
+>> Author  : PhateValleyman
 Usage: image2ascii [-s] -f <filename> -r <ratio> -w <width> -g <height>
 
 Options:
